@@ -16,7 +16,7 @@ The core of Imagine Wot is a **Convolutional Autoencoder**, a neural network arc
 
 2. **Model Architecture**: The Convolutional Autoencoder consists of an encoder that compresses the recipe data into a latent space representation and a decoder that reconstructs the recipe from this compressed form. The latent space captures the underlying patterns and variations in the data.
 
-3. **Training Process**: The model is trained by minimizing the reconstruction error between the original recipes and the generated ones. As the training progresses, the model learns to capture the essence of Ethiopian cuisine in its latent space.
+3. **Training Process**: The model is trained by minimizing the reconstruction error between the original food images and the generated ones. As the training progresses, the model learns to capture and assemble the essence of Ethiopian cuisine in a meaningful its latent representation.
 
 4. **Recipe Generation**: Once trained, the model can generate new recipes by sampling from the latent space. These generated recipes are unique, and diverse, yet rooted in the traditional Ethiopian culinary style.
 
