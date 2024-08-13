@@ -6,7 +6,7 @@
 
 ## Short Description
 
-Imagine Wot is an experimental toy model that taps into the creative potential of AI to generate traditional Ethiopian recipes. By leveraging a Convolutional Autoencoder, the model learns patterns and structures within existing Ethiopian recipes, allowing it to generate new, unique, and culturally authentic recipes from the latent space.
+Imagine Wot is an experimental toy model that taps into the creative potential of AutoEncoders to generate traditional Ethiopian dish images. By leveraging a Convolutional Autoencoder, the model learns patterns and structures within existing Ethiopian recipes, allowing it to generate new, unique, and culturally authentic recipes from the latent space.
 
 ## Solution Details
 
