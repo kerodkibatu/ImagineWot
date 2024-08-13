@@ -6,11 +6,11 @@
 
 ## Short Description
 
-Imagine Wot is an experimental toy model that taps into the creative potential of AutoEncoders to generate traditional Ethiopian dish images. By leveraging a Convolutional Autoencoder, the model learns patterns and structures within existing Ethiopian recipes, allowing it to generate new, unique, and culturally authentic recipes from the latent space.
+Imagine Wot is an experimental toy model that taps into the creative potential of AutoEncoders to generate traditional Ethiopian dish images. By leveraging a Convolutional Autoencoder, the model learns patterns and structures within existing Ethiopian dish images, allowing it to generate new, unique, and culturally authentic dish images from the latent space.
 
 ## Solution Details
 
-The core of Imagine Wot is a **Convolutional Autoencoder**, a neural network architecture commonly used for unsupervised learning. This model was chosen because of its ability to effectively compress high-dimensional data, such as the intricate details of recipes, into a lower-dimensional latent space. Here’s a breakdown of the solution:
+The core of Imagine Wot is a **Convolutional Autoencoder**, a neural network architecture commonly used for unsupervised learning. This model was chosen because of its ability to effectively compress high-dimensional data, such as the intricate details of recipes, into a lower-dimensional latent space. Hereâ€™s a breakdown of the solution:
 
 1. **Data Preparation**: The model is trained on a curated dataset of traditional Ethiopian recipes, including ingredients, cooking methods, and cultural context. The data is preprocessed and structured for training the Convolutional Autoencoder.
 
@@ -33,7 +33,7 @@ Latent space refers to the compressed, abstract representation of data learned b
 
 ### Convolutional Autoencoder
 
-The Convolutional Autoencoder is central to the functionality of Imagine Wot. It learns to encode the recipe data into a compact form while retaining essential information. Here’s how it works:
+The Convolutional Autoencoder is central to the functionality of Imagine Wot. It learns to encode the recipe data into a compact form while retaining essential information. Hereâ€™s how it works:
 
 - **Encoder**: Compresses the input recipe data into a latent vector.
 - **Latent Space**: A compressed, abstract representation of the recipe data.
