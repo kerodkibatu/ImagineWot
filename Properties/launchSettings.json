@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutoEncoderSharp": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Kerod\\source\\repos\\AutoEncoderSharp\\"
+    }
+  }
+}
